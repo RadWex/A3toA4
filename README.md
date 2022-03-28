@@ -7,7 +7,7 @@ App appearance:
 ![](gui.png)
 
 # Tips
-You can change DPI and quality of jpeg conversion in "settings.ini"
+You can change DPI and quality of jpeg conversion in "settings.ini".
 Files "1.pdf" and "2.pdf" are for testing.
 
 ## Development
